@@ -1,3 +1,3 @@
 # Servidor HTTP com Flask
 
-N„o possuÌ conex„o com banco de dados, sÛ exemplo de mÈtodos
+N√£o possu√≠ conex√£o com banco de dados, s√≥ exemplo de m√©todos HTTP
